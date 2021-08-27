@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GiphyApp</string>
+    <string name="search_hint">Giphy Search</string>
+    <string name="network_error">Please Check Internet connection</string>
+    <string name="no_data">images is not available</string>
+    <string name="empty_search">Please enter image name</string>
+    <string name="search_error">Invalid Query</string>
+</resources>
